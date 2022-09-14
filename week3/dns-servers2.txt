@@ -1,0 +1,8 @@
+# Nmap 7.92 scan initiated Tue Sep 13 12:00:10 2022 as: nmap -Pn -p 53 --open -oN dns-servers2.txt 10.0.5.0/24
+Nmap scan report for 10.0.5.22
+Host is up (0.0015s latency).
+
+PORT   STATE SERVICE
+53/tcp open  domain
+
+# Nmap done at Tue Sep 13 12:00:24 2022 -- 256 IP addresses (256 hosts up) scanned in 14.67 seconds
